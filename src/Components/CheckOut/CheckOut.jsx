@@ -97,6 +97,7 @@ export const Checkout = () => {
           </div>
         ))}
 
+        <div className="form-all-group">
         <div className="form-group">
           <label className="lab-check">Nombre:</label>
           <input
@@ -145,6 +146,7 @@ export const Checkout = () => {
             value={emailConfirmacion}
             onChange={(e) => setEmailConfirmacion(e.target.value)}
           />
+        </div>
         </div>
 
         {error && <p className="error-campos">{error}</p>}

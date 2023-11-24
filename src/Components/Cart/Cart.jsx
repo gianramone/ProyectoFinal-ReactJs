@@ -24,7 +24,7 @@ const Cart = () => {
 
       <Link to="/checkout">
         {' '}
-        <button className="btn btn-success">Finalizar Compra</button>
+        <button className="btn btn-success m-3 p-2">Finalizar Compra</button>
       </Link>
     </>
   );
