@@ -1,20 +1,23 @@
 # RECORD STORE E-COMMERCE
 
-Record store es una tienda virtual hecha con el objetivo de cumplir los objetivos del proyecto final de React-Js.
-En pocas palabras, el E-commerce permite elegir un producto, agregarlo al carrito, llenar una solicitud de compra y concretarla.
+Record store permite vender productos, en este caso música en diferentes formatos.
+Este ecommerce permite elegir un producto, agregarlo al carrito, llenar una solicitud de compra y realizarla.
+Record store es una tienda virtual hecha con la intencion de cumplir con los objetivos planteados en el  proyecto final de React-Js.
+
+
 
 ## Documentation
+Estos son los requisitos del ecommerce.
 
-[Documentation]()
 [bootstrap]
 [firebase]
+[web-vitals]
 [react]
+[react-scripts]
 [react-bootstrap]
-[react-dom]
 [react-icons],
 [react-router-dom]
-[react-scripts]
-[web-vitals]
+[react-dom]  
 
 ## Authors
 
