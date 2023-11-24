@@ -1,9 +1,9 @@
 .form-group {
-display: flex;
-justify-content: center;
-align-items: center;
-margin: 5px;
-padding: 5px
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 5px;
+  padding: 5px
 }
 
 .lab-check {
@@ -12,12 +12,11 @@ padding: 5px
   align-items: center;
   margin: 5px;
   padding: 5px
-
 }
 
 
-.input-check{
+.input-check {
   display: flex;
   justify-content: center;
-align-items: center;
+  align-items: center;
 }
